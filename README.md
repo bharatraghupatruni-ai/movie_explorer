@@ -29,11 +29,7 @@ Movie Explorer is a **simple, interactive web application** that allows users to
 
 ---
 
-## How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/movie_explorer.git
 
 
 
