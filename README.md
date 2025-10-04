@@ -16,9 +16,8 @@ Movie Explorer is a **simple, interactive web application** that allows users to
 
 ## Screenshots
 
-![Movie Explorer Screenshot](screenshot.png)  
+<img width="1876" height="920" alt="image" src="https://github.com/user-attachments/assets/cc532ef8-977c-4bf1-8ce4-8d89bc0b3071" />
 
-*(Replace `screenshot.png` with your actual screenshot file in the repo.)*
 
 ---
 
@@ -35,5 +34,6 @@ Movie Explorer is a **simple, interactive web application** that allows users to
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/movie_explorer.git
+
 
 
