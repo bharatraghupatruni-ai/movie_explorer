@@ -14,9 +14,6 @@ Movie Explorer is a **simple, interactive web application** that allows users to
 
 ---
 
-## Screenshots
-
-<img width="1876" height="920" alt="image" src="https://github.com/user-attachments/assets/cc532ef8-977c-4bf1-8ce4-8d89bc0b3071" />
 
 
 ---
@@ -28,6 +25,7 @@ Movie Explorer is a **simple, interactive web application** that allows users to
 - **JavaScript**: Dynamic functionality for search, random movie selection, and rendering.
 
 ---
+
 
 
 
